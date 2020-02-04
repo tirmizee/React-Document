@@ -8,9 +8,15 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 -   Before
 
-    hello = function() {
-      return "Hello World!";
-    }
+        hello = function() {
+          return "Hello World!";
+        }
+    
+-   Arrow Function
+
+        hello = () => {
+          return "Hello World!";
+        }
 
 ## Stateless Component vs Class Component
 
