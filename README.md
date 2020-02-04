@@ -14,3 +14,4 @@
 - https://ihatetomatoes.net/react-tutorial-for-beginners/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 - https://60devs.com/pure-component-in-react.html
+- https://www.babelcoder.com/blog/posts/introduction-to-es2015
