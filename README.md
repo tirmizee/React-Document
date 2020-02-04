@@ -6,7 +6,8 @@
 
 Arrow Function ช่วยให้เราสามารถเขียนไวยากรณ์ฟังก์ชั่นที่สั้นลงและยังมีความสามารถเข้าถึง this จาก scope ที่ครอบมันอยู่ ซึ่งมีมาให้ใน ES6
 
-    // Before
+-   Before
+
     hello = function() {
       return "Hello World!";
     }
