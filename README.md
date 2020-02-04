@@ -4,7 +4,7 @@
 
 ### Arrow Function
 
-Arrow Function ช่วยให้เราสามารถเขียนไวยากรณ์ฟังก์ชั่นที่สั้นลง
+Arrow Function ช่วยให้เราสามารถเขียนไวยากรณ์ฟังก์ชั่นที่สั้นลงและยังมีความสามารถเข้าถึง this จาก scope ที่ครอบมันอยู่
 
 ## Stateless Component vs Class Component
 
