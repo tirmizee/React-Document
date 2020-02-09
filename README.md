@@ -20,6 +20,8 @@ Arrow Function ช่วยให้เราสามารถเขียน�
         
 ### Map Function
 
+### Pure Function
+
 
 ## Lifecycle method
 
