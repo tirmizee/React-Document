@@ -46,3 +46,6 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 - https://60devs.com/pure-component-in-react.html
 - https://www.babelcoder.com/blog/posts/introduction-to-es2015
+- https://reactpatterns.com/
+- https://github.com/chantastic/react-patterns
+- https://github.com/chantastic/reactpatterns#stateless-function
