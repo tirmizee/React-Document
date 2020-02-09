@@ -30,6 +30,14 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 ![image](https://user-images.githubusercontent.com/15135199/73670193-5ff69880-46db-11ea-9dcb-2717320fa3fa.png)
 
 
+### โครงสร้างไฟล์ที่สำคัญของ React
+
+- public/index.html : คือไฟล์ html หลักของเรา
+
+- src/index.js : เป็นไฟล์หลักของ React
+
+- src/App.js : ไฟล์สำหรับ Component ที่ชื่อว่า App
+
 ## Reference
 
 - https://ihatetomatoes.net/react-tutorial-for-beginners/
