@@ -22,6 +22,10 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 ### Pure Function
 
+        function add(x, y) {
+          return x + y;
+        }
+
 
 ## Lifecycle method
 
