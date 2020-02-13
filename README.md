@@ -31,6 +31,8 @@ Arrow Function ช่วยให้เราสามารถเขียน�
         
 ### Map Function
 
+### Filter Function
+
 
 ## Lifecycle method
 
