@@ -67,3 +67,4 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 - https://stackoverflow.com/questions/43087007/react-link-vs-a-tag-and-arrow-function
 - https://medium.com/@learnreact/container-components-c0e67432e005
 - https://web.dev/code-splitting-suspense/
+- https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
