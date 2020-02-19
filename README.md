@@ -68,3 +68,4 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 - https://medium.com/@learnreact/container-components-c0e67432e005
 - https://web.dev/code-splitting-suspense/
 - https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=1
+- https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a
