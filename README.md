@@ -51,6 +51,10 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 - src/App.js : ไฟล์สำหรับ Component ที่ชื่อว่า App
 
+### dependencies
+
+- react-viewer
+
 ## Reference
 
 - https://ihatetomatoes.net/react-tutorial-for-beginners/
