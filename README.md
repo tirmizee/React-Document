@@ -51,7 +51,7 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 - src/App.js : ไฟล์สำหรับ Component ที่ชื่อว่า App
 
-### redirect from one page to another page
+### วิธีเปลี่ยนเส้นทางจากหน้าหนึ่งไปอีกหน้า
 
 - using Redirect component
 
