@@ -105,6 +105,12 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 ### Local Storage
 
+-  overview of localStorage methods.
+
+| Method      | Description |
+| ------------- | ------------- |
+| setItem(key,value)  | Add key and value to local storage  |
+
 ### dependencies
 
 - react-viewer
