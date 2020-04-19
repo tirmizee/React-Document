@@ -109,7 +109,10 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 | Method      | Description |
 | ------------- | ------------- |
-| setItem(key,value)  | Add key and value to local storage  |
+| setItem(key, value)  | Add key and value to local storage  |
+| getItem(key)  | Retrieve a value by the key  |
+| removeItem(key)  | Remove an item by key  |
+| clear()  | Clear all storage  |
 
 ### dependencies
 
