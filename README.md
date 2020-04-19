@@ -51,6 +51,58 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
 - src/App.js : ไฟล์สำหรับ Component ที่ชื่อว่า App
 
+### redirect from one page to another page
+
+- using Redirect component
+
+        import React from 'react';
+        import {Redirect} from 'react-router-dom';
+
+        class Login extends React.Component {
+
+          onSubmit = () => {
+             if(userFound){
+                 return  <Redirect  to="/posts/" />
+             }
+          }
+
+          render() {
+            return (
+              <form>
+                <input placeholder="email" type="email" />
+                <input placeholder="password" type="password" />
+                <button onClick={this.onSubmit}>Login</button>
+              </form>
+            )
+          }
+        }
+
+        export default Login;
+      
+- using history object
+    
+        import React from 'react';
+        class Login extends React.Component {
+
+          onSubmit = () => {
+             if(userFound){
+                 this.props.history.push('/posts/');
+             }
+          }
+
+          render() {
+            return (
+              <form>
+                <input placeholder="email" type="email" />
+                <input placeholder="password" type="password" />
+                <button onClick={this.onSubmit}>Login</button>
+              </form>
+            )
+          }
+        }
+
+        export default Login;
+
 ### dependencies
 
 - react-viewer
