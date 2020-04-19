@@ -103,6 +103,8 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 
         export default Login;
 
+### Local Storage
+
 ### dependencies
 
 - react-viewer
