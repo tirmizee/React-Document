@@ -139,3 +139,4 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 - https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path
 - http://react.tips/radio-buttons-in-reactjs/
 - https://reactgo.com/tutorials/react/
+- https://www.taniarascia.com/promise-all-with-async-await/
