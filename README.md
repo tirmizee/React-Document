@@ -114,6 +114,10 @@ Arrow Function ช่วยให้เราสามารถเขียน�
 | removeItem(key)  | Remove an item by key  |
 | clear()  | Clear all storage  |
 
+### Redux concep
+
+![6](https://user-images.githubusercontent.com/15135199/81476334-b1af4180-923b-11ea-8689-854956334a37.png)
+
 ### dependencies
 
 - react-viewer
