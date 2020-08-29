@@ -10,7 +10,7 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
    
    - ##### Unmounting คือจุดสิ้นสุดของ Component
 
-### 1.Render () : method
+### 1. Render () : method
 
 ![g6LQe](https://user-images.githubusercontent.com/15135199/73858354-d675d080-486a-11ea-9f59-aee84189e526.png)
 
