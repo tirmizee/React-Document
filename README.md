@@ -12,6 +12,8 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 #### 1. Render () : method
 
+Render method คือทำหน้าที่จัดการการเรนเดอร์ Component ของเราในขณะเข้าถึง this.sate และ this.props
+
 ![g6LQe](https://user-images.githubusercontent.com/15135199/73858354-d675d080-486a-11ea-9f59-aee84189e526.png)
 
 ## Stateless Component vs Class Component
