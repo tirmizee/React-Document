@@ -14,6 +14,19 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 Render method คือทำหน้าที่จัดการการเรนเดอร์ Component ของเราในขณะเข้าถึงหรือเปลี่ยนแปลง this.sate หรือ this.props ซึ่งเราจะไม่สามารถเรียกใช้ setState method ได้ใน render method
 
+#### 2. Constructor () : method
+
+#### 3. ComponentDidMount() : method
+
+#### 4. ComponentWillMount() : method
+
+#### 5. ComponentWillReceiveProps() : method
+
+#### 6. ShouldComponentUpdate() : method
+
+#### 7. ComponentWillUpdate () : method
+
+
 ![g6LQe](https://user-images.githubusercontent.com/15135199/73858354-d675d080-486a-11ea-9f59-aee84189e526.png)
 
 ## Stateless Component vs Class Component
