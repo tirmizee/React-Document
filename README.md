@@ -36,6 +36,10 @@ Constructor method คือ method ที่ถูกเรียกก่อ�
   <img src="https://user-images.githubusercontent.com/15135199/91645429-2b7b6d00-ea6f-11ea-968d-1c49458c4093.jpg" >
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/91645626-d93b4b80-ea70-11ea-8ee2-d106e94e113d.png" >
+</p>
+
 ![g6LQe](https://user-images.githubusercontent.com/15135199/73858354-d675d080-486a-11ea-9f59-aee84189e526.png)
 
 ## Stateless Component vs Class Component
