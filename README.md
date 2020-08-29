@@ -16,6 +16,8 @@ Render method คือทำหน้าที่จัดการการเ
 
 #### 2. Constructor () : method
 
+Constructor method คือ method ที่ถูกเรียกก่อน method อื่นๆ เมื่อใช้ Constructor ควรเรียกใช้ super(props) ก่อน statement อื่นๆทั้งหมดมิฉะนั้น this.props จะเป็น undefined ซึ่งอาจนำไปสู่ข้อผิดพลาดที่สำคัญในแอปพลิเคชัน
+
 #### 3. ComponentDidMount() : method
 
 #### 4. ComponentWillMount() : method
