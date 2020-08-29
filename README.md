@@ -1,6 +1,5 @@
 # React-Document
 
-
 ## Lifecycle method
 
 ![g6LQe](https://user-images.githubusercontent.com/15135199/73858354-d675d080-486a-11ea-9f59-aee84189e526.png)
@@ -8,7 +7,6 @@
 ## Stateless Component vs Class Component
 
 ![image](https://user-images.githubusercontent.com/15135199/73670193-5ff69880-46db-11ea-9dcb-2717320fa3fa.png)
-
 
 ### โครงสร้างไฟล์ที่สำคัญของ React
 
