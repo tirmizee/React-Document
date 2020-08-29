@@ -2,7 +2,7 @@
 
 ## React Lifecycle methods คืออะไร
 
-React Lifecycle methods คือ ลำดับของเหตุการณ์ที่เกิดขึ้นตั้งแต่จุดเริ่มต้นของ React component จนถึงตอนสิ้นสุด ทุก Component ใน React จะมีวงจรชีวิตของเหตุการณ์ต่อไปนี้
+React Lifecycle methods คือ ลำดับของเหตุการณ์ที่เกิดขึ้นตั้งแต่จุดเริ่มต้นของ React component จนถึงตอนสิ้นสุด ทุก Component ใน React ควรมีวงจรชีวิตของเหตุการณ์ต่อไปนี้
 
    - ##### Mounting คือการเกิดขึ้นของ Component
 
