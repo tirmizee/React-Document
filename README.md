@@ -44,7 +44,7 @@ Constructor method คือ method ที่ถูกเรียกก่อ�
 
 ### กรณี State มีการเปลี่ยนแปลง
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=600px">
+  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=500px">
 </p>
 
 
