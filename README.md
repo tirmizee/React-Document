@@ -26,6 +26,8 @@ Constructor method คือ method ที่ถูกเรียกก่อ�
 
 #### 4. ComponentWillMount() : method
 
+จะถูกดำเนินการก่อนการ Render
+
 #### 5. ComponentWillReceiveProps() : method
 
 #### 6. ShouldComponentUpdate() : method
