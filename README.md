@@ -60,6 +60,9 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 ### Container Components vs Presentational Components
 
+- #### Container Component
+
+- #### Presentational Component
 
 ### โครงสร้างไฟล์ที่สำคัญของ React
 
