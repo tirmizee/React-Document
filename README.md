@@ -38,7 +38,7 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 ### กรณีโหลดหน้าครั้งแรก
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645429-2b7b6d00-ea6f-11ea-968d-1c49458c4093.jpg"  height=350px">
+  <img src="https://user-images.githubusercontent.com/15135199/91645429-2b7b6d00-ea6f-11ea-968d-1c49458c4093.jpg"  height=300px">
 </p>
 
 ### กรณี Props มีการเปลี่ยนแปลง
@@ -48,13 +48,15 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 ### กรณี State มีการเปลี่ยนแปลง
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=350px">
+  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=300px">
 </p>
 
 
 ## Stateless Component vs Class Component
 
-![image](https://user-images.githubusercontent.com/15135199/73670193-5ff69880-46db-11ea-9dcb-2717320fa3fa.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/73670193-5ff69880-46db-11ea-9dcb-2717320fa3fa.png" height=500px">
+</p>
 
 ### โครงสร้างไฟล์ที่สำคัญของ React
 
