@@ -52,7 +52,9 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 </p>
 
 
-### Stateless Component vs Statefull Component
+### Statefull Component vs Stateless Component
+
+- #### Statefull Component
 
 - #### Stateless Component
 
