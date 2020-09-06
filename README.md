@@ -38,17 +38,17 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 ### กรณีโหลดหน้าครั้งแรก
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645429-2b7b6d00-ea6f-11ea-968d-1c49458c4093.jpg" >
+  <img src="https://user-images.githubusercontent.com/15135199/91645429-2b7b6d00-ea6f-11ea-968d-1c49458c4093.jpg"  height=400px">
 </p>
 
 ### กรณี Props มีการเปลี่ยนแปลง
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645626-d93b4b80-ea70-11ea-8ee2-d106e94e113d.png" height=600px">
+  <img src="https://user-images.githubusercontent.com/15135199/91645626-d93b4b80-ea70-11ea-8ee2-d106e94e113d.png" height=400px">
 </p>
 
 ### กรณี State มีการเปลี่ยนแปลง
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=500px">
+  <img src="https://user-images.githubusercontent.com/15135199/91645736-e9075f80-ea71-11ea-8c50-6ac0cc2bdac6.png" height=400px">
 </p>
 
 
