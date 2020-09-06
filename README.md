@@ -60,6 +60,8 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 - #### Stateless Component
 
+  คือ component ที่ไม่มี state ใดๆเลย 
+
 ### Container Components vs Presentational Components
 
 - #### Container Component
