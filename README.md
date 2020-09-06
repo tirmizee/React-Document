@@ -60,7 +60,7 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 - #### Stateless Component
 
-  คือ component ที่ไม่มี state ใดๆเลย 
+  คือ component ที่ไม่มี state ใดๆเลย ซึ่งหมายความว่ไม่สามารถใช้ this.setState ภายใน component เหล่านี้ 
 
 ### Container Components vs Presentational Components
 
