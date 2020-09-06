@@ -56,6 +56,8 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 - #### Statefull Component
 
+Statefull Component คือ Component ที่มี state จัดเก็บข้อมูลเกี่ยวกับการเปลี่ยนแปลง state ของ Component ในหน่วยความจำ
+
 - #### Stateless Component
 
 ### Container Components vs Presentational Components
