@@ -166,3 +166,4 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 - http://react.tips/radio-buttons-in-reactjs/
 - https://reactgo.com/tutorials/react/
 - https://www.taniarascia.com/promise-all-with-async-await/
+- https://reactpatterns.com/
