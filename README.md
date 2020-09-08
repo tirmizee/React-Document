@@ -68,6 +68,10 @@ React Lifecycle methods คือ ลำดับของเหตุการ�
 
 - #### Presentational Component
 
+### HOC (higher-order components) in React
+
+HOC คือ function ที่รับ component มาและ return conponent ใหม่ไป
+
 ### โครงสร้างไฟล์ที่สำคัญของ React
 
 - public/index.html : คือไฟล์ html หลัก web
