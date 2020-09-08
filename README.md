@@ -1,5 +1,7 @@
 # React-Document
 
+React เป็น javascript libray ที่ได้รับความนิยมสูง ถูกพัฒนาโดย Facebook
+
 ## React Lifecycle methods คืออะไร
 
 React Lifecycle methods คือ ลำดับของเหตุการณ์ที่เกิดขึ้นตั้งแต่จุดเริ่มต้นของ React component จนถึงตอนสิ้นสุด ทุก Component ใน React ควรมีวงจรชีวิตของเหตุการณ์ต่อไปนี้
