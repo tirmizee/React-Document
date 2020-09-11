@@ -173,3 +173,4 @@ HOC คือ function ที่รับ component มาและ return conpo
 - https://reactgo.com/tutorials/react/
 - https://www.taniarascia.com/promise-all-with-async-await/
 - https://reactpatterns.com/
+- https://medium.com/@ishmaelsibisi/reactjs-portals-a-simple-but-useful-example-41accfb77b7c
