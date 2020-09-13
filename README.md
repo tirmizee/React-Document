@@ -150,6 +150,10 @@ HOC คือ function ที่รับ component มาและ return conpo
 
 - react-viewer
 
+### Q & A
+
+- what is difference between react-rounter and react-rounter-dom
+
 ## Reference
 
 - https://ihatetomatoes.net/react-tutorial-for-beginners/
