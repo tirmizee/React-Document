@@ -82,6 +82,10 @@ HOC คือ function ที่รับ component มาและ return conpo
 
 - src/App.js : ไฟล์สำหรับ Component ที่ชื่อว่า App
 
+## Rounter
+- react-rounter 
+https://reactrouter.com/web/example/basic
+
 ### วิธีเปลี่ยนเส้นทางจากหน้าหนึ่งไปอีกหน้า
 
 - using Redirect component
