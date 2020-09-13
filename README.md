@@ -154,7 +154,7 @@ HOC คือ function ที่รับ component มาและ return conpo
 
 - what is difference between react-rounter and react-rounter-dom
 
-![image](https://user-images.githubusercontent.com/15135199/93022256-8639ca80-f612-11ea-829b-6e25153ed97e.png)
+https://stackoverflow.com/questions/42684809/react-router-vs-react-router-dom-when-to-use-one-or-the-other
 
 ## Reference
 
