@@ -140,7 +140,7 @@ https://reactrouter.com/web/example/basic
 
 ### Local Storage
 
--  overview of localStorage methods.
+overview of localStorage methods.
 
 <b>setItem(key, value)</b> Add key and value to local storage  
 <b>getItem(key)</b> Retrieve a value by the key  
