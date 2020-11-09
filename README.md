@@ -90,6 +90,8 @@ https://reactrouter.com/web/example/basic
 
 - using Redirect component
 
+```javascript
+
         import React from 'react';
         import {Redirect} from 'react-router-dom';
 
@@ -113,7 +115,9 @@ https://reactrouter.com/web/example/basic
         }
 
         export default Login;
-      
+  
+```
+  
 - using history object
     
         import React from 'react';
