@@ -142,12 +142,10 @@ https://reactrouter.com/web/example/basic
 
 -  overview of localStorage methods.
 
-| Method      | Description |
-| ------------- | ------------- |
-| setItem(key, value)  | Add key and value to local storage  |
-| getItem(key)  | Retrieve a value by the key  |
-| removeItem(key)  | Remove an item by key  |
-| clear()  | Clear all storage  |
+<b>setItem(key, value)</b> Add key and value to local storage  
+<b>getItem(key)</b> Retrieve a value by the key  
+<b>removeItem(key)</b> Remove an item by key  
+<b>clear()</b> Clear all storage  
 
 
 ### dependencies
