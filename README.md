@@ -186,3 +186,4 @@ https://stackoverflow.com/questions/42684809/react-router-vs-react-router-dom-wh
 - https://www.taniarascia.com/promise-all-with-async-await/
 - https://reactpatterns.com/
 - https://medium.com/@ishmaelsibisi/reactjs-portals-a-simple-but-useful-example-41accfb77b7c
+- https://www.rockyourcode.com/react-set-state-with-prev-state-and-object-spread-operator/
